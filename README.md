@@ -2,9 +2,9 @@
 
 Welcome to my AIML Bootcamp 2026 repository.
 
-I'm a student participating in the Machine Learning Bootcamp conducted by Soham Bhattacharya and presented by GLA University, Mathura. This repository tracks my learning journey through notes, assignments, experiments, and projects completed during the program.
+I'm a student participating in the Machine Learning Bootcamp conducted by Soham Bhattacharya and presented by GLA University, Mathura. This repository tracks my learning journey through mini projects completed during the program.
 
-## Topics Covered
+## Topics Included
 - Python for AI/ML
 - Data Analysis
 - Machine Learning
